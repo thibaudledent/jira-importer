@@ -8,4 +8,4 @@ Importer for Jira issues.
 * `--password` or `-p` - The password of the user.
 
 Example:
-* `-j "http://jira.com" -u "joe" -p "password"`
+* `Importer -j "http://jira.com" -u "joe" -p "password"`
